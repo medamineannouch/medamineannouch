@@ -18,7 +18,7 @@
     <td width="45%">
      <p align="center">
       <a href="https://github.com/medamineannouch">
-       <img src="img/dev.png"/>
+       <img src="dev.png"/>
       </a>
      </p>
     </td>
