@@ -64,7 +64,6 @@
         <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux"/>
         <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
         <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
-        <img src="https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab"/>
       </li>
       <li>
         <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
