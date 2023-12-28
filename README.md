@@ -10,7 +10,7 @@
       <h2> 💻 &nbsp;About Me </h2>
       <br>
        <ul>
-        <li>🎓 &nbsp; Data Science & AI Engineering at <a href="http://ensam.um5.ac.ma/">ENSAM Rabat</a></li>
+        <li>🎓 &nbsp; Data Science & AI Engineering Student at <a href="http://ensam.um5.ac.ma/">ENSAM Rabat</a></li>
         <li>🤔 &nbsp; Interested in Machine Learning and Supply Chain Optimization</li>
        </ul>
        <br>
